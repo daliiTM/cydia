@@ -31,3 +31,14 @@ Depends: mobilesubstrate, applist (>= 1.5.15~beta1), com.rpetrich.rocketbootstra
 SileoDepiction: https://daliitm.github.io/repo/sileo.php?pid=1513
 Name: A-Bypass
 Author: SeeYouIOS <daliitm@gmail.com>
+
+Package: com.seeyouios.iconrepo
+Essential: yes
+Section: Icons
+Maintainer: SeeYouIOS
+Architecture: iphoneos-arm
+Version: 8.0.4
+Description: Officials SeeYouIOS Repo Icons
+Name: Sys Repo Icons
+Author: SeeYouIOS <repo@seeyouios.github.io/repo/>
+Homepage: http://SeeYouIOS.github.io/cydia/
