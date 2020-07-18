@@ -1,0 +1,33 @@
+Package: com.seeyouios.filzafilemanager
+Section: System
+Installed-Size: 31884
+Maintainer: SeeYouIOS
+Architecture: iphoneos-arm
+Version: 3.7.6-30
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: github.io.gfp.filza64bit, com.tigisoftware.filza64bit
+SileoDepiction: https://daliitm.github.io/repo/sileo.php?pid=1191
+Name: Filza File Manager
+Author: SeeYouIOS
+Icon: https://guofenpai.github.io/repo/depictions/github.io.gfp.filza/DebIcon.png
+
+Package: com.seeyouios.cydown
+Section: System
+Maintainer: SeeYouIOS
+Architecture: iphoneos-arm
+Version: 7.1.0
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Name: CyDown
+Author: SeeYouIOS <CodeBoy@me.com>
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+
+Package: net.daliitm.a-bypass
+Section: Bypass
+Installed-Size: 456
+Maintainer: SeeYouIOS <daliitm@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.2.4
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3)
+SileoDepiction: https://daliitm.github.io/repo/sileo.php?pid=1513
+Name: A-Bypass
+Author: SeeYouIOS <daliitm@gmail.com>
