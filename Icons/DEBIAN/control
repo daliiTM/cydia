@@ -1,0 +1,10 @@
+Package: com.daliitm.icon
+Essential: yes
+Section: System
+Maintainer: RashaIOS <support@daliitm.io>
+Architecture: iphoneos-arm
+Version: 12.5
+Conflicts: com.daliitm.icone, daliitm.icone, daliitm.github.io.pubghidegress, daliitm.github.io.noidletimer
+Name: Daliitm Icons
+Author: DaliiTM
+Sponsor: daliitm <http://daliitm.github.io/repo/>
