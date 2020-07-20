@@ -1,44 +1,23 @@
-Package: seeyouios.github.io.filzafilemanager
-Section: System
-Installed-Size: 31884
-Maintainer: SeeYouIOS
-Architecture: iphoneos-arm
-Version: 3.7.6-30
-Depends: zip, unzip, gzip, unrar, p7zip
-Conflicts: github.io.gfp.filza64bit, com.tigisoftware.filza64bit
-SileoDepiction: https://daliitm.github.io/repo/sileo.php?pid=1191
-Name: Filza File Manager
-Author: SeeYouIOS
-Icon: https://guofenpai.github.io/repo/depictions/github.io.gfp.filza/DebIcon.png
-
-Package: seeyouios.githun.io.cydown
-Section: System
-Maintainer: SeeYouIOS
-Architecture: iphoneos-arm
-Version: 7.1.0
-Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Name: CyDown
-Author: SeeYouIOS <CodeBoy@me.com>
-Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
-
-Package: com.seeyouios.github.a-bypass
+Package: net.daliitm.a-bypass
 Section: Bypass
 Installed-Size: 456
-Maintainer: SeeYouIOS <daliitm@gmail.com>
+Maintainer: Baw Appie <pp121324@gmail.com>
+Filename: A-Bypass.deb
 Architecture: iphoneos-arm
 Version: 1.2.4
 Depends: mobilesubstrate, applist (>= 1.5.15~beta1), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3)
-SileoDepiction: https://daliitm.github.io/repo/sileo.php?pid=1513
+SileoDepiction: https://myclassic.net/sileo.php?pid=1513
 Name: A-Bypass
-Author: SeeYouIOS <daliitm@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
 
-Package: com.seeyouios.github.iconrepo
+Package: com.daliitm.iconrepo
 Essential: yes
-Section: Icons
-Maintainer: SeeYouIOS
+Section: Icon
+Maintainer: iDevid <repo@hackyouriphone.org>
 Architecture: iphoneos-arm
 Version: 8.0.4
-Description: Officials SeeYouIOS Repo Icons
-Name: Sys Repo Icons
-Author: SeeYouIOS <repo@seeyouios.github.io/repo/>
-Homepage: http://SeeYouIOS.github.io/cydia/
+Description: Officials HYI Repo Icons
+Name: HYI Repo Icons
+Author: HackYouriPhone <repo@hackyouriphone.org>
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=IconRepo
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=IconRepo
